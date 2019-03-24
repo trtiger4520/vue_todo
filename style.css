@@ -1,0 +1,9 @@
+.completed {
+    text-decoration: line-through;
+}
+
+.theListIsNothing {
+    padding: 20px 0;
+    text-align: center;
+    color: #aaaaaa;
+}
